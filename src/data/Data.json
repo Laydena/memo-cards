@@ -57,7 +57,7 @@
     "music": {
         "id": "1001",
         "name": "Музыка",
-        "image": "/img//music-cover.jpg",
+        "image": "/img/music-cover.jpg",
         "words": [
             {
                 "id": "160001",
