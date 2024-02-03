@@ -1,0 +1,51 @@
+.header {
+    padding: 18px 100px 0 100px;
+    height: 158px;
+    background-color: #E2F5EE;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: block;
+}
+
+
+li {
+    display: inline;
+    gap: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xx-large;
+    color: #F86549;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+
+.a {
+    text-decoration: none;
+    color: #F86549;
+
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 160px;
+}
+
+
+.userIcon {
+    display: block;
+}
+
+.arrowDown {
+    display: block;
+}
+
+.userPortrait {
+    display: flex;
+    gap: 17px;
+}

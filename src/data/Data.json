@@ -1,0 +1,143 @@
+{
+    "fruits": {
+        "id": "1000",
+        "name": "Фрукты",
+        "image": "/img/fruits-cover.jpg",
+        "words": [
+            {
+                "id": "150000",
+                "english": "apple",
+                "russian": "яблоко",
+                "transcription": "[æpl]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "150001",
+                "english": "kiwi",
+                "russian": "киви",
+                "transcription": "[kiːwiː]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "150002",
+                "english": "banana",
+                "russian": "банан",
+                "transcription": "[bəˈnɑːnə]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "150003",
+                "english": "pear",
+                "russian": "груша",
+                "transcription": "[peə]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "150004",
+                "english": "peach",
+                "russian": "персик",
+                "transcription": "[piːʧ]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "150004",
+                "english": "tangerine",
+                "russian": "мандарин",
+                "transcription": "[tænʤəˈriːn]",
+                "sound": "",
+                "image": ""
+            }
+        ]
+    },
+    "music": {
+        "id": "1001",
+        "name": "Музыка",
+        "image": "/img//music-cover.jpg",
+        "words": [
+            {
+                "id": "160001",
+                "english": "song",
+                "russian": "песня",
+                "transcription": "[sɒŋ]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "160002",
+                "english": "rap",
+                "russian": "рэп",
+                "transcription": "[ræp]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "160003",
+                "english": "singer",
+                "russian": "певец",
+                "transcription": "[ˈsɪŋə]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "160004",
+                "english": "guitar",
+                "russian": "гитара",
+                "transcription": "[gɪˈtɑː]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "160005",
+                "english": "composer",
+                "russian": "композитор",
+                "transcription": "[kəmˈpəʊzə]",
+                "sound": "",
+                "image": ""
+            }
+        ]
+    },
+    "vacation": {
+        "id": "1002",
+        "name": "Отпуск",
+        "image": "/img/vacation-cover.jpg",
+        "words": [
+            {
+                "id": "170000",
+                "english": "journey",
+                "russian": "поездка",
+                "transcription": "[ ʤə:ni ]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "170001",
+                "english": "guide",
+                "russian": "экскурсовод",
+                "transcription": "[ gaid ]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "170002",
+                "english": "souvenir",
+                "russian": "сувенир",
+                "transcription": "[ˈsuːvənɪə]",
+                "sound": "",
+                "image": ""
+            },
+            {
+                "id": "170003",
+                "english": "beach",
+                "russian": "пляж",
+                "transcription": "[biːʧ]",
+                "sound": "",
+                "image": ""
+            }
+        ]
+    }
+}
