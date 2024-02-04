@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/memo-cards/static/css/main.c04560b3.css",
-    "main.js": "/memo-cards/static/js/main.4f5a60fe.js",
+    "main.css": "/memo-cards/static/css/main.5e06a731.css",
+    "main.js": "/memo-cards/static/js/main.be4cb14a.js",
     "static/media/header-logo.svg": "/memo-cards/static/media/header-logo.7a6e0fb6c0c36a3583d828938ed6a847.svg",
     "static/media/user-icon_1.svg": "/memo-cards/static/media/user-icon_1.f81c128e3011d2b58d930df93171188e.svg",
     "index.html": "/memo-cards/index.html",
     "static/media/arrow_small_down.svg": "/memo-cards/static/media/arrow_small_down.a6f520a36daed1abfd6e2418b59f39b1.svg",
-    "main.c04560b3.css.map": "/memo-cards/static/css/main.c04560b3.css.map",
-    "main.4f5a60fe.js.map": "/memo-cards/static/js/main.4f5a60fe.js.map"
+    "main.5e06a731.css.map": "/memo-cards/static/css/main.5e06a731.css.map",
+    "main.be4cb14a.js.map": "/memo-cards/static/js/main.be4cb14a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c04560b3.css",
-    "static/js/main.4f5a60fe.js"
+    "static/css/main.5e06a731.css",
+    "static/js/main.be4cb14a.js"
   ]
 }
