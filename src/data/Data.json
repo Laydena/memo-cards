@@ -2,6 +2,7 @@
     "fruits": {
         "id": "1000",
         "name": "Фрукты",
+        "link": "fruits",
         "image": "/img/fruits-cover.jpg",
         "words": [
             {
@@ -10,7 +11,7 @@
                 "russian": "яблоко",
                 "transcription": "[æpl]",
                 "sound": "",
-                "image": ""
+                "image": "/img/fruits-covers/apple.jpg"
             },
             {
                 "id": "150001",
@@ -57,6 +58,7 @@
     "music": {
         "id": "1001",
         "name": "Музыка",
+        "link": "music",
         "image": "/img/music-cover.jpg",
         "words": [
             {
@@ -104,6 +106,7 @@
     "vacation": {
         "id": "1002",
         "name": "Отпуск",
+        "link": "vacation",
         "image": "/img/vacation-cover.jpg",
         "words": [
             {
