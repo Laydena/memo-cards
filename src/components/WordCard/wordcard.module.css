@@ -1,0 +1,12 @@
+.word_string {
+    display: flex;
+    gap: 50px;
+
+
+}
+
+.word_cell {
+    width: 200px;
+    text-align: left;
+    font-size: xx-large;
+}

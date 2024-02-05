@@ -1,0 +1,60 @@
+.title_block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.yellow_button {
+    background-color: #FCBE4A;
+    border-radius: 30px;
+    width: 275px;
+    height: 75px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: x-large;
+    border: none;
+    cursor: pointer;
+}
+
+.orange_button {
+    background-color: #F86549;
+    border-radius: 30px;
+    width: 275px;
+    height: 75px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: x-large;
+    border: none;
+    cursor: pointer;
+}
+
+.theme_name {
+    width: 450px;
+    height: 160px;
+    border: 2px dashed #F86549;
+    border-radius: 30px;
+}
+
+.title_text {
+    font-weight: 600;
+    font-size: xx-large;
+    border: none;
+}
+
+.subtitle_text {
+    font-weight: 600;
+    font-size: large;
+    border: none;
+}
+
+.words_list {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
